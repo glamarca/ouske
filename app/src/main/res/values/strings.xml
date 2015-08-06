@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Ouske</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <!--A-->
+
+    <!--C-->
+    <string name="cars">Cars</string>
+    <!--G-->
+    <string name="group">Group</string>
+
+    <!--L-->
+    <string name="localise">Localise</string>
+    <string name="localisationName">Localisation name</string>
+
+    <!--S-->
+    <string name="saveLocalistion">Save Localisation</string>
+    <string name="save">Save</string>
+</resources>

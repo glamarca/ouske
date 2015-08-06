@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ouske</string>
+    <string name="action_settings">Paramètres</string>
+    <string name="localise">Localiser</string>
+    <string name="saveLocalistion">Sauvegarder localisation</string>
+    <string name="hello_world">Hello World</string>
+    <string name="group">Groupe</string>
+    <string name="localisationName">Nom de la localisation</string>
+    <string name="cars">Voitures</string>
+</resources>
